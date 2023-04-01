@@ -1,0 +1,21 @@
+{
+  "name": "fedorenkosergiy.grabli.labeling",
+  "version": "0.0.0",
+  "displayName": "Grabli Labeling",
+  "description": "A solution marking gameobjects with labels in Unity3d",
+  "unity": "2020.3",
+  "unityRelease": "23f1",
+  "keywords": [
+    "Label",
+    "Grabli",
+    "UnityEngine"
+  ],
+  "author": {
+    "name": "Serhii Fedorenko",
+    "email": "fedorenkosergiy@gmail.com",
+    "url": "https://example.com"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.21.1"
+  }
+}
